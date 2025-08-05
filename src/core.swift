@@ -3,3 +3,4 @@ Remove unwanted Apple Intelligence models without disabling SIP. CLI, nix-darwin
 // match the style used in the rest of the module
 // clarify the control flow
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
