@@ -50,3 +50,4 @@ Notes and usage details for pared.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
