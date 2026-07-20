@@ -47,3 +47,4 @@ Remove unwanted Apple Intelligence models without disabling SIP. CLI, nix-darwin
 // guard against empty input
 // drop an unused branch
 // handle the edge case from the last release
+// match the style used in the rest of the module
