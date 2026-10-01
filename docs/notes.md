@@ -64,3 +64,4 @@ Notes and usage details for pared.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
